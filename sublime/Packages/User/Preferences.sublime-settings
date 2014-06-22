@@ -1,0 +1,25 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmTheme",
+	"dictionary": "Packages/User/Language - Czech/Czech.dic",
+	"file_exclude_patterns":
+	[
+		"*.deb",
+		"*.changes"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git"
+	],
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Nodejs",
+		"Vintage"
+	],
+	"phoenix_highlight_current_tab": true,
+	"phoenix_solid_current_tab": true,
+	"phoenix_tabs_auto_width": true,
+	"theme": "Phoenix Dark.sublime-theme"
+}

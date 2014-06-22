@@ -1,0 +1,13 @@
+ssh-add ~/.ssh/id_rsa &>/dev/null
+
+alias virt_mount="~/connect-dev.sh"
+alias virt_umount="~/disconnect-dev.sh"
+
+complete -o default -o nospace -F _git_checkout co
+complete -o default -o nospace -F _git_branch br
+
+alias st='git status'
+alias m='git checkout master'
+alias co='git checkout'
+alias br='git branch'
+alias cmt='git commit'

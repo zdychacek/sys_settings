@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\InlCode{${1:code}}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>icode</tabTrigger>
+</snippet>

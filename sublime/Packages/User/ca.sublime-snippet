@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console.assert(${1:expression}, ${2:message});
+]]></content>
+	<tabTrigger>ca</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
