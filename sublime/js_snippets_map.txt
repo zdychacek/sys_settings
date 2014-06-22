@@ -1,0 +1,31 @@
+afn - anonymous function
+cb - callback function
+cd - console.dir
+ce - console.error
+cl - console.log
+cls - es6 class
+clse - es6 class extended
+ct - console.trace
+desc - bdd describe
+ereq - require next with comma
+expd - es6 default export
+f - arrow function
+fn - function
+for - reverse for
+fori - for
+ife - if-else
+ii - Immediately-invoked function expression
+imp - es6 import
+ita - bdd it async
+its - bdd it
+me - export module
+okfe - Object.keys...forEach
+pro - prototype
+proto - prototype method definition
+red - array reduce
+reda - es6 array reduce
+req - require with var
+sti - setInterval
+sto - setTimeout
+thro - throw new error
+us - use strict
