@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[class ${1:ClassName} extends ${2:ExtendedClass} {
+    constructor (${3:param}) {
+        ${4:// body...}
+    }
+}]]></content>
+    <tabTrigger>clse</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 class definition (extends)</description>
+</snippet>

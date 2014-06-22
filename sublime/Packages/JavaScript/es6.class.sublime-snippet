@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[class ${1:ClassName} {
+    constructor (${2:param}) {
+        ${3:// body...}
+    }
+}]]></content>
+    <tabTrigger>cls</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 class definition</description>
+</snippet>
