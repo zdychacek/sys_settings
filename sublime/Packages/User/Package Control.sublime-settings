@@ -4,11 +4,19 @@
 		"BracketHighlighter",
 		"DocBlockr",
 		"EditorConfig",
+		"GoGdb",
+		"GoSublime",
 		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
 		"Nodejs",
+		"SideBarEnhancements",
+		"SyncedSideBar",
 		"Theme - Phoenix",
 		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/DisposaBoy/GoSublime-next"
 	]
 }

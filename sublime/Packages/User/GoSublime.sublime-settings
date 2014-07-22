@@ -1,0 +1,4 @@
+ {
+ 	"env": {"GOPATH": "$HOME/workspace-go", "GOROOT": "$HOME/go"},
+ 	"use_gs_gopath": true
+ }

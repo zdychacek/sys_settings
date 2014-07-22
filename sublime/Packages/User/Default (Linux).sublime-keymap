@@ -1,5 +1,30 @@
 [
 	{ "keys": ["super+shift+x"], "command": "tidy_xml" },
     { "keys": ["super+shift+j"], "command": "prettify_json" },
-    { "keys": ["super+shift+g"], "command": "show_panel", "args": { "panel": "output.gulp_output" } }
+    { "keys": ["super+shift+g"], "command": "show_panel", "args": { "panel": "output.gulp_output" } },
+    {
+        "command": "gdb_input",
+        "keys": ["ctrl+f5"]
+    },
+    {
+        "command": "gdb_exit",
+        "context": [{"key": "gdb_running", "operator": "equal", "operand": true}],
+        "keys": ["shift+f5"]
+    },
+    { "keys": ["ctrl+escape"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    {
+        "command": "gss_test",
+        "keys": ["ctrl+shift+t"],
+        "args":{
+            "debug":true
+        }
+    },
+    {
+        "command": "gss_show_console",
+        "keys": ["ctrl+shift+c"]
+    },
+    {
+        "command": "gss_run",
+        "keys": ["ctrl+shift+f5"]
+    }
 ]
