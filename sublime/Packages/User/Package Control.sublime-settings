@@ -1,22 +1,19 @@
 {
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"BracketHighlighter",
 		"DocBlockr",
 		"EditorConfig",
-		"GoGdb",
 		"GoSublime",
 		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"LESS",
 		"Nodejs",
+		"PackageResourceViewer",
+		"Protocol Buffer Syntax",
 		"SideBarEnhancements",
-		"SyncedSideBar",
 		"Theme - Phoenix",
 		"Theme - Spacegray"
-	],
-	"repositories":
-	[
-		"https://github.com/DisposaBoy/GoSublime-next"
 	]
 }
