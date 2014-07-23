@@ -1,4 +1,5 @@
 {
   "go_cmd":"/home/ondrej/go/bin/go",
-  "session_open": false
+  "session_open": false,
+  "build_flags": ["-gcflags \"-N -l\""]
 }

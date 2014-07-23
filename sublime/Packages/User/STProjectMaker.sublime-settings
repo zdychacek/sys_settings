@@ -1,0 +1,4 @@
+{
+	"excluded_tokens": ["binp", "args", "ppath"],
+	"default_project_path": "/home/ondrej/myproj/project_name"
+}

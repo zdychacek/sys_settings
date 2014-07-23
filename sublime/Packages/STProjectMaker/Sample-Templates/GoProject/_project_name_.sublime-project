@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "src"
+    }
+  ],
+  "settings": {
+    "sublimegdb_commandline": "gdb --interpreter=mi --args ${binp} ${args}",
+    "sublimegdb_go_project": true,
+    "sublimegdb_rargs": "",
+    "sublimegdb_workingdir": "${ppath}",
+    "GS_GOPATH": "${ppath}"
+  }
+}
